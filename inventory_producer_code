@@ -4,8 +4,8 @@ import random
 import boto3
 import time
 
-aws_access_key = "AKIA6ODUZJ6FTJ4K75MU"
-aws_secret_key = "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"
+aws_access_key = ""
+aws_secret_key = ""
 region = "us-east-1"
 stream_name = "inventory_updates_stream"
 
